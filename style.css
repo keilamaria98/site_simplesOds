@@ -1,0 +1,33 @@
+html, body {
+    margin: 0%;
+    background-image: linear-gradient(rgb(255, 230, 255),azure);
+        
+}
+#fundo {
+    background: url("assents/Fundo\ de\ cabeçalho.png");
+    text-align: center;
+    height: 70%;
+    padding: 1%;
+    font-size: 140%;
+    font-family: "Times New Roman", Times, serif;
+    color: forestgreen;
+}
+
+.texto {
+    text-align: justify;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size:large;
+    
+}
+
+#fundo2 {
+    background-position-x:right;
+    background-image: url("assents/Arvore verde.png"); padding-top: 50px;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    padding-top: 30%;
+}
+
+
+
